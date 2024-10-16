@@ -1,2 +1,1 @@
-Creating schematic with XSCHEM 
-Creating IC layout with magic sky130
+Creating schematic with XSCHEMC and IC layout with magic sky130
